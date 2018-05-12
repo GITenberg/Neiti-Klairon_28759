@@ -1,0 +1,48 @@
+_repo: Neiti-Klairon_28759
+_version: 0.1.0
+alternative_title: Mademoiselle Clairon, oder, Vier Tage aus dem Leben einer Schauspielerin.
+  Finnish
+contributor:
+  translator:
+    agent_name: Törmälä, Emanuel
+    alias: Tormala, Emanuel
+    birthdate: 1849
+    deathdate: 1900
+    gutenberg_agent_id: '33518'
+    url: http://www.gutenberg.org/2009/agents/33518
+    wikipedia: http://fi.wikipedia.org/wiki/Emanuel_T%C3%B6rm%C3%A4l%C3%A4
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mühlbach, L. (Luise)
+    aliases:
+    - Mundt, Clara
+    - Mühlbach, Louise
+    - Mühlbach, Luise
+    - Mundt, Klara Muller
+    - Muhlbach, L. (Luise)
+    - Mundt, Klara Müller
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '830'
+    url: http://www.gutenberg.org/2009/agents/830
+    wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
+description: ''
+gutenberg_issued: '2009-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28759'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clairon, Mlle, 1723-1803 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PT'
+- !lcsh 'Actresses -- Fiction'
+- !lcsh 'German fiction -- Translations into Finnish'
+title: Neiti Klairon
+url: http://www.gutenberg.org/ebooks/28759
